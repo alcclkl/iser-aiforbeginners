@@ -12,6 +12,8 @@ KONU: İstemci üzerinden web arayüzü  ile kendi sunucumdaki ai modeli ile ba�
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -Python kod yapısı ile alakalı araştırmalar
+-chat ve görsel etkileşim (görüntü tanıma) Llava modeli.
+-ollama üzerinden  Llama3 70B instructed yani tune edilmiş model kurulumu.
 
 
 
